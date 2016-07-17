@@ -1,0 +1,11 @@
+﻿<Window x:Class="DrawCircle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid >
+        <Canvas Height="311" HorizontalAlignment="Left" Name="Grid" VerticalAlignment="Top" Width="503">
+            <Label Canvas.Left="44" Canvas.Top="62" Content="Label" Height="28" Name="label1" />
+            <Canvas Canvas.Left="107" Canvas.Top="0" Height="305" Name="drawingCanvas" Width="390" MouseLeftButtonDown="drawingCanvas_MouseLeftButtonDown" MouseRightButtonDown="drawingCanvas_MouseRightButtonDown" MouseLeftButtonUp="drawingCanvas_MouseLeftButtonDown" MouseRightButtonUp="drawingCanvas_MouseRightButtonDown" Background="#FF33A581" />
+        </Canvas>
+    </Grid>
+</Window>
