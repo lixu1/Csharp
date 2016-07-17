@@ -1,4 +1,4 @@
-WPF »æÍ¼Ê¾Àı
+WPF draw example
 
 Visual studio 2010
-C# ÓïÑÔ
+C# language

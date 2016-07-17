@@ -1,3 +1,3 @@
-windows GDI Ê¾Àý³ÌÐò
+windows GDI example
 Visual studio 2010
-C#ÓïÑÔ
+C#	language

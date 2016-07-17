@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\桌面\Visual studio 2010\WebApplication_616_javaweb\WebApplication_616_javaweb\bin\WebApplication_616_javaweb.dll
+C:\Documents and Settings\Administrator\桌面\Visual studio 2010\WebApplication_616_javaweb\WebApplication_616_javaweb\bin\WebApplication_616_javaweb.pdb
+C:\Documents and Settings\Administrator\桌面\Visual studio 2010\WebApplication_616_javaweb\WebApplication_616_javaweb\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Visual studio 2010\WebApplication_616_javaweb\WebApplication_616_javaweb\obj\Debug\WebApplication_616_javaweb.dll
+C:\Documents and Settings\Administrator\桌面\Visual studio 2010\WebApplication_616_javaweb\WebApplication_616_javaweb\obj\Debug\WebApplication_616_javaweb.pdb

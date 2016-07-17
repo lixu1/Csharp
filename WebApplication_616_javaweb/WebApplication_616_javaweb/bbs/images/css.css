@@ -1,0 +1,13 @@
+A:visited{TEXT-DECORATION: none}
+A:active{TEXT-DECORATION: none}
+A:link{color: #000000; TEXT-DECORATION: none}
+A:hover { color: #FF0000; POSITION: relative; BORDER-BOTTOM: #808080 1px dotted A:hover ;}
+A{FONT: 9pt ËÎÌו; COLOR: #333333 ; TEXT-DECORATION: none}
+BODY,TD{FONT-SIZE:9pt;}
+.365ye { LEFT:0px; 
+WIDTH:750;line-height:160%;
+table-layout:fixed; WORD-WRAP:break-word; word-break:break-all} 
+.a1 { background-image: url('T_bg.gif') }
+.a2{BACKGROUND-COLOR: 7A9FD1;}
+.a3{BACKGROUND-COLOR: F1F5FC;}
+.a4{BACKGROUND-COLOR: ffffff;}
